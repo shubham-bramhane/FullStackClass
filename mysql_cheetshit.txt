@@ -1,0 +1,10 @@
+set database connection 
+
+
+mysql -u root -p 
+
+
+for showing database list :
+
+
+show databases;
