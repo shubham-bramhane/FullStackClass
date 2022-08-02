@@ -1,1 +1,8 @@
+
+for global installation:
 composer global require "laravel/installer"
+
+
+
+for creating project in laravel
+: laravel new project_name

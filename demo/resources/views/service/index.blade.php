@@ -1,9 +1,9 @@
 @extends('layouts.main')
 
 
+
 @section('page-content')
 
-<h1>welcome page</h1>
+<h1>service  page code</h1>
 
 @endsection
-
